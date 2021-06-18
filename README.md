@@ -7,7 +7,7 @@
 ![main](./img/0.png)
 
 [使用说明](https://github.com/lvjianzwp/flashTrading/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-
+[点击下载](https://github.com/lvjianzwp/flashTrading/archive/refs/tags/v4.1.0.zip)
 ## FAQ
 0.一键发财存在的意义是什么? 
 > 抢狗软件可以无视swap页面的冗余操作,对合约快速发出请求,在时间上比较高效.
